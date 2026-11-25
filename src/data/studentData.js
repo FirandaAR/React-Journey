@@ -1,0 +1,38 @@
+export const students = [
+  {
+    id: 1,
+    name: "Ahmad",
+    grade: "X",
+    role: "JS Dev",
+    skills: ["React", "Node.js"],
+    avatar: "https://randomuser.me/api/portraits/lego/4.jpg",
+    isActive: true,
+  },
+  {
+    id: 2,
+    name: "Zaid",
+    grade: "XI",
+    role: "Android Dev",
+    skills: ["Android", "Java"],
+    avatar: "https://randomuser.me/api/portraits/lego/3.jpg",
+    isActive: true,
+  },
+  {
+    id: 3,
+    name: "Umar",
+    grade: "XII",
+    role: "Web Dev",
+    skills: ["HTML", "CSS", "JavaScript"],
+    avatar: "https://randomuser.me/api/portraits/lego/2.jpg",
+    isActive: true,
+  },
+  {
+    id: 4,
+    name: "Ujang",
+    grade: "XI Rombel 1",
+    role: "Android Dev Student",
+    skills: ["Android", "Java"],
+    avatar: "https://randomuser.me/api/portraits/lego/1.jpg",
+    isActive: false,
+  },
+];
